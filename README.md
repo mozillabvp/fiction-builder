@@ -38,12 +38,12 @@ The fonts and text layout totally depends upon the developers' choice with no re
 
 
 
-#Installation
+# Installation
 
 1. npm install -g ionic cordova gulp
 2. bower install
 3. gulp [ to convert your story to supportable json]
 4. ionic serve
 
-#Game Files
+# Game Files
 Put your game file as /stories/story.js in root directory and that's all :D
