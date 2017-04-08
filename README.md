@@ -1,3 +1,10 @@
+#WIP
+
+Authors: 
+
+	http://github.com/shashwat2519
+	http://github.com/poush
+
 # IF-Ionic
 A starter project for making glulx interactive fiction games playable in ionic mobile app.
 
@@ -26,3 +33,17 @@ The fonts and text layout totally depends upon the developers' choice with no re
 1. Documentation for how to use the extensions is provided at the end of the extentions files.
 2. As of now, the ionic app needs the story file in json format and you have to do that manually, I'll be correcting that soon.
 3. If you don't have ionic CLI tools on your machine, you can just put the android-debug.apk file in your phone and run that to test the app.
+
+
+
+
+
+#Installation
+
+1. npm install -g ionic cordova gulp
+2. bower install
+3. gulp [ to convert your story to supportable json]
+4. ionic serve
+
+#Game Files
+Put your game file as /stories/story.js in root directory and that's all :D

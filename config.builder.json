@@ -1,0 +1,10 @@
+{
+	"name" : "My Game Name",
+	"description": "My Game Description",
+	"icon" : "deafult.ico",
+	"author": {
+		"name": "Someone",
+		"email": "Someone@somewhere.com",
+		"website": "somewhere.com"
+	}
+}
