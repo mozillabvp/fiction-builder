@@ -47,3 +47,6 @@ The fonts and text layout totally depends upon the developers' choice with no re
 
 # Game Files
 Put your game file as /stories/story.js in root directory and that's all :D
+
+# Mozilla Guidelines
+https://www.mozilla.org/en-US/about/governance/policies/participation/
